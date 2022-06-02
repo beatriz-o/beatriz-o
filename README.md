@@ -2,7 +2,7 @@
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFSP de Votuporanga <br/>
 💻 Estagiária de desenvolvimento na LISS Legal Intelligence <br/>
 📚 Estudando HTML, CSS, JavaScript e PHP <br/>
-👊 Participante do Hiring Coders 3 <br/><br/>
+
 <a href="https://www.linkedin.com/in/beatriz-o/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 <div align="center">
