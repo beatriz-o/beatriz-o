@@ -1,5 +1,5 @@
 ### Olá, sou a Beatriz 👋
-🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFSP de Votuporanga <br/>
+🎓 Análise e Desenvolvimento de Sistemas - IFSP <br/>
 <!--
 💻 Desenvolvedora Java Jr <br/>
 📚 Estudando HTML, CSS, JavaScript e PHP <br/>
